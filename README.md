@@ -12,8 +12,16 @@ src="https://cdn.discordapp.com/attachments/1561397933738434622/1567873228683092
 
 <div align="center">
 
- <img
-src="https://cdn.discordapp.com/attachments/1561397933738434622/1567889694182604960/Untitled344_20261031091102.png?ex=6aedd291&is=6aec8111&hm=a7e6dd281a3688c3e5f4d97252194e6f6d14a34cef9767ea305e4ddbfde90415&" Width="55%" />
+<details>
+<summary> <img
+src="https://cdn.discordapp.com/attachments/1561397933738434622/1567889694182604960/Untitled344_20261031091102.png?ex=6aedd291&is=6aec8111&hm=a7e6dd281a3688c3e5f4d97252194e6f6d14a34cef9767ea305e4ddbfde90415&" Width="55%" /> </summary>
+
+<img
+src="https://files.catbox.moe/44wbou.png" Width="80%" />
+
+   top global 1 Nolan 😈
+   
+</details>
 
 
 [![sharespot](https://cdn.discordapp.com/attachments/1561397933738434622/1567888581991596174/Untitled362_20261105210617.png?ex=6aedd187&is=6aec8007&hm=787a644c1ff934041ccb8a1ef9f55317de3b0a5889a568c116a4c96340b69792&)](https://www.sharespotapp.com/harith)
