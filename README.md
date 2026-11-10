@@ -13,7 +13,8 @@ src="https://cdn.discordapp.com/attachments/1561397933738434622/1567873228683092
 <div align="center">
 
 <details>
-<summary> <img
+<summary> watch & learn
+ <img
 src="https://cdn.discordapp.com/attachments/1561397933738434622/1567889694182604960/Untitled344_20261031091102.png?ex=6aedd291&is=6aec8111&hm=a7e6dd281a3688c3e5f4d97252194e6f6d14a34cef9767ea305e4ddbfde90415&" Width="55%" /> </summary>
 
 <img
