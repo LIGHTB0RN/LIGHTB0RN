@@ -6,7 +6,7 @@
 <div align="center">
 
 <details>
-<summary> some gameplay </summary>
+<summary> some  stuff</summary>
 
 <img
 src="https://files.catbox.moe/44wbou.png" Width="80%" />
